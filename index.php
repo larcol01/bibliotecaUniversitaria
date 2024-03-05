@@ -11,6 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <!--Prueba-->
+         <!--Prueba-->
+          <!--Prueba-->
         <?php
         // put your code here
         ?>
